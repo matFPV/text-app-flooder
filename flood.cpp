@@ -10,6 +10,8 @@ int loop;
 int repeatfor;
 	//main
 int main() {
+	cout << "use at your own risk";
+	
 	//repfor
 std::cout << "repeat for:";
 std::cin >> repeatfor;
