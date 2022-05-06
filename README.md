@@ -8,7 +8,6 @@ xdotools
 
 
 2 compiling:
-compile with make <make flood>
-
+compile with make <$make flood>
 or g++ <g++ flood.cpp>(in case of using g++ run the a.out first with <./a.out>
 you're using linux so i think you should be able to compile and troubleshoot without help
